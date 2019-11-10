@@ -7,7 +7,7 @@ Bandung Institute of Technology (Institut Teknologi Bandung) as well as
 Currently the contents are about feature selection, dimensionality reduction, classification, clustering, regression and classical machine 
 learning implementation
 ## Usage
-This repository may be used for educational purposes, notes (in case our meatbag brain forget), summaries, and any other positive things.
+This repository may be used for educational purposes, notes (in case our meatbag brain forgot), summaries, and any other positive things.
 ## What's Next
 This repository will be updated by my newest explanation regarding basics of machine learning (including: classical machine learning,
 reinforcement learning, deep learning and neural networks, and ensemble methods)
