@@ -1,5 +1,5 @@
 # EDS
-Engineering Data Science Repository
+An Engineering Data Science Repository
 ## About
 This repository contains the lecture codes and personally created explanation from TF4063-Engineering Data Science course I've taken in
 Bandung Institute of Technology (Institut Teknologi Bandung) as well as my own experiment.
